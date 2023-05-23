@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Bullet
+comment1.params=x\ y\ shoot
+comment1.target=Bullet(int,\ int,\ boolean)
+comment2.params=x\ y\ shoot
+comment2.target=void\ update(int,\ int,\ boolean)
+comment3.params=x\ y
+comment3.target=void\ update(int,\ int)
+numComments=4
